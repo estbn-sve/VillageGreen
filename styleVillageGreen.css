@@ -1,6 +1,6 @@
-div {
-    border:dashed red 1px ;
-}
+/*div {
+    --border:dashed red 1px ;
+}*/
 body {
     background-image: url(background/background\ village.png);   
     background-repeat: repeat-x ;
